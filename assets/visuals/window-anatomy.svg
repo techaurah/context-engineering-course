@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520">
+<rect width="1180" height="520" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">Anatomy of one assembled context</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Measured in Lesson 01: 668 approx tokens for a Fernhill support turn. Retrieval is 56 percent of what the model reads.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<text x="40" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">retrieval</text>
+<rect x="190" y="150" width="800" height="26" fill="#E2E8F0"/>
+<rect x="190" y="150" width="800" height="26" fill="#0891B2"/>
+<text x="1010" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">374 tokens</text>
+<text x="40" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">history</text>
+<rect x="190" y="202" width="800" height="26" fill="#E2E8F0"/>
+<rect x="190" y="202" width="334" height="26" fill="#0B1F4A"/>
+<text x="1010" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">156 tokens</text>
+<text x="40" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">system</text>
+<rect x="190" y="254" width="800" height="26" fill="#E2E8F0"/>
+<rect x="190" y="254" width="107" height="26" fill="#F59E0B"/>
+<text x="1010" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">50 tokens</text>
+<text x="40" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">tools</text>
+<rect x="190" y="306" width="800" height="26" fill="#E2E8F0"/>
+<rect x="190" y="306" width="88" height="26" fill="#475569"/>
+<text x="1010" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">41 tokens</text>
+<text x="40" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">user</text>
+<rect x="190" y="358" width="800" height="26" fill="#E2E8F0"/>
+<rect x="190" y="358" width="64" height="26" fill="#E0F2FE"/>
+<text x="1010" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">30 tokens</text>
+<text x="40" y="432" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">memory</text>
+<rect x="190" y="410" width="800" height="26" fill="#E2E8F0"/>
+<rect x="190" y="410" width="36" height="26" fill="#E0F2FE"/>
+<text x="1010" y="432" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">17 tokens</text>
+<text x="40" y="490" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">The component teams write most carefully (the system prompt) is 7.5 percent of the window.</text>
+</svg>

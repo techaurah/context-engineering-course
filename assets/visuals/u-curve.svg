@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520">
+<rect width="1180" height="520" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">Lost in the middle, measured (Lesson 05)</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Stand-in recall of the same facts at each of 10 positions. Edges 1.0, middle 0.65, on the course's labelled stand-in rule.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<rect x="90" y="150" width="70" height="290" fill="#0891B2"/>
+<text x="125" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">1.0</text>
+<text x="125" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">1</text>
+<rect x="198" y="150" width="70" height="290" fill="#0891B2"/>
+<text x="233" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">1.0</text>
+<text x="233" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">2</text>
+<rect x="306" y="150" width="70" height="290" fill="#0891B2"/>
+<text x="341" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">1.0</text>
+<text x="341" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">3</text>
+<rect x="414" y="157" width="70" height="283" fill="#0891B2"/>
+<text x="449" y="145.25" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">0.975</text>
+<text x="449" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">4</text>
+<rect x="522" y="237" width="70" height="203" fill="#F59E0B"/>
+<text x="557" y="225.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">0.7</text>
+<text x="557" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">5</text>
+<rect x="630" y="252" width="70" height="188" fill="#F59E0B"/>
+<text x="665" y="239.5" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">0.65</text>
+<text x="665" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">6</text>
+<rect x="738" y="172" width="70" height="268" fill="#0891B2"/>
+<text x="773" y="159.75" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">0.925</text>
+<text x="773" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">7</text>
+<rect x="846" y="150" width="70" height="290" fill="#0891B2"/>
+<text x="881" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">1.0</text>
+<text x="881" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">8</text>
+<rect x="954" y="150" width="70" height="290" fill="#0891B2"/>
+<text x="989" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">1.0</text>
+<text x="989" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">9</text>
+<rect x="1062" y="150" width="70" height="290" fill="#0891B2"/>
+<text x="1097" y="138.0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#0B1F4A" text-anchor="middle">1.0</text>
+<text x="1097" y="468" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="middle">10</text>
+<text x="90" y="498" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#475569" text-anchor="start">Position of the fact-bearing document in a fixed 10 document context</text>
+</svg>

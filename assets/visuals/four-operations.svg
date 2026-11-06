@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="470" viewBox="0 0 1180 470">
+<rect width="1180" height="470" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">The four operations (LangChain taxonomy, 2025)</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Write, select, compress, isolate: the course devotes a module block to each, and the capstone composes all four.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<rect x="40" y="150" width="250" height="170" rx="8" fill="#E0F2FE"/>
+<text x="165.0" y="211" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">WRITE</text>
+<text x="165.0" y="231" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Save context outside</text>
+<text x="165.0" y="251" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">the window</text>
+<text x="165.0" y="271" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Lessons 06-09, 21-22</text>
+<line x1="292" y1="235" x2="320" y2="235" stroke="#0891B2" stroke-width="3"/>
+<polygon points="320,235 310,229 310,241" fill="#0891B2"/>
+<rect x="324" y="150" width="250" height="170" rx="8" fill="#E0F2FE"/>
+<text x="449.0" y="211" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">SELECT</text>
+<text x="449.0" y="231" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Pull in what the</text>
+<text x="449.0" y="251" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">step needs</text>
+<text x="449.0" y="271" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Lessons 10-13</text>
+<line x1="576" y1="235" x2="604" y2="235" stroke="#0891B2" stroke-width="3"/>
+<polygon points="604,235 594,229 594,241" fill="#0891B2"/>
+<rect x="608" y="150" width="250" height="170" rx="8" fill="#E0F2FE"/>
+<text x="733.0" y="211" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">COMPRESS</text>
+<text x="733.0" y="231" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Keep only the tokens</text>
+<text x="733.0" y="251" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">that carry facts</text>
+<text x="733.0" y="271" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Lessons 14-17</text>
+<line x1="860" y1="235" x2="888" y2="235" stroke="#0891B2" stroke-width="3"/>
+<polygon points="888,235 878,229 878,241" fill="#0891B2"/>
+<rect x="892" y="150" width="250" height="170" rx="8" fill="#E0F2FE"/>
+<text x="1017.0" y="211" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">ISOLATE</text>
+<text x="1017.0" y="231" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Split work across</text>
+<text x="1017.0" y="251" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">clean windows</text>
+<text x="1017.0" y="271" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#0B1F4A" text-anchor="middle">Lesson 23</text>
+<text x="40" y="400" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Anthropic's framing adds the goal: the smallest set of high-signal tokens that maximises the desired outcome.</text>
+</svg>

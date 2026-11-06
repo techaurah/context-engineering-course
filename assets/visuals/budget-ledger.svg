@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="500" viewBox="0 0 1180 500">
+<rect width="1180" height="500" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">The standard budget breaks at turn 30 (Lesson 03)</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">4,000 token window, 500 reserved for the answer. History is the only component that grows every turn.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<text x="40" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">system</text>
+<rect x="190" y="150" width="700" height="26" fill="#E2E8F0"/>
+<rect x="190" y="150" width="153" height="26" fill="#0891B2"/>
+<text x="910" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">350 of 350</text>
+<text x="40" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">tools</text>
+<rect x="190" y="202" width="700" height="26" fill="#E2E8F0"/>
+<rect x="190" y="202" width="197" height="26" fill="#0891B2"/>
+<text x="910" y="224" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">450 of 450</text>
+<text x="40" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">memory</text>
+<rect x="190" y="254" width="700" height="26" fill="#E2E8F0"/>
+<rect x="190" y="254" width="131" height="26" fill="#0891B2"/>
+<text x="910" y="276" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">300 of 300</text>
+<text x="40" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">retrieval</text>
+<rect x="190" y="306" width="700" height="26" fill="#E2E8F0"/>
+<rect x="190" y="306" width="700" height="26" fill="#0891B2"/>
+<text x="910" y="328" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">1600 of 1600</text>
+<text x="40" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">history</text>
+<rect x="190" y="358" width="700" height="26" fill="#E2E8F0"/>
+<rect x="190" y="358" width="592" height="26" fill="#F59E0B"/>
+<text x="910" y="380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">1354 of 800</text>
+<text x="40" y="460" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">After 48 scripted turns the ledger totals 4,054 tokens: over budget by 54, with no error raised anywhere.</text>
+</svg>

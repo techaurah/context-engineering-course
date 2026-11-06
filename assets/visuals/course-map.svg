@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="560" viewBox="0 0 1180 560">
+<rect width="1180" height="560" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">Context Engineering: the course map</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Ten modules, one window: measure it, budget it, then write, select, compress, order, remember, and gate it.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<rect x="40" y="150" width="190" height="110" rx="8" fill="#0B1F4A"/>
+<text x="135.0" y="201" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">0 Foundations</text>
+<text x="135.0" y="221" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Lessons 00-02</text>
+<line x1="232" y1="205" x2="260" y2="205" stroke="#0891B2" stroke-width="3"/>
+<polygon points="260,205 250,199 250,211" fill="#0891B2"/>
+<rect x="264" y="150" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="359.0" y="201" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">1 The budget</text>
+<text x="359.0" y="221" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 03-05</text>
+<line x1="456" y1="205" x2="484" y2="205" stroke="#0891B2" stroke-width="3"/>
+<polygon points="484,205 474,199 474,211" fill="#0891B2"/>
+<rect x="488" y="150" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="583.0" y="201" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">2 Writing</text>
+<text x="583.0" y="221" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 06-09</text>
+<line x1="680" y1="205" x2="708" y2="205" stroke="#0891B2" stroke-width="3"/>
+<polygon points="708,205 698,199 698,211" fill="#0891B2"/>
+<rect x="712" y="150" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="807.0" y="201" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">3 Selecting</text>
+<text x="807.0" y="221" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 10-13</text>
+<line x1="904" y1="205" x2="932" y2="205" stroke="#0891B2" stroke-width="3"/>
+<polygon points="932,205 922,199 922,211" fill="#0891B2"/>
+<rect x="936" y="150" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="1031.0" y="201" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">4 Compressing</text>
+<text x="1031.0" y="221" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 14-17</text>
+<rect x="40" y="320" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="135.0" y="371" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">5 Ordering</text>
+<text x="135.0" y="391" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 18-20</text>
+<line x1="232" y1="375" x2="260" y2="375" stroke="#0891B2" stroke-width="3"/>
+<polygon points="260,375 250,369 250,381" fill="#0891B2"/>
+<rect x="264" y="320" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="359.0" y="371" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">6 Memory</text>
+<text x="359.0" y="391" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 21-23</text>
+<line x1="456" y1="375" x2="484" y2="375" stroke="#0891B2" stroke-width="3"/>
+<polygon points="484,375 474,369 474,381" fill="#0891B2"/>
+<rect x="488" y="320" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="583.0" y="371" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">7 Tools</text>
+<text x="583.0" y="391" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 24-25</text>
+<line x1="680" y1="375" x2="708" y2="375" stroke="#0891B2" stroke-width="3"/>
+<polygon points="708,375 698,369 698,381" fill="#0891B2"/>
+<rect x="712" y="320" width="190" height="110" rx="8" fill="#E0F2FE"/>
+<text x="807.0" y="371" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">8 Cost</text>
+<text x="807.0" y="391" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#0B1F4A" text-anchor="middle">Lessons 26-27</text>
+<line x1="904" y1="375" x2="932" y2="375" stroke="#0891B2" stroke-width="3"/>
+<polygon points="932,375 922,369 922,381" fill="#0891B2"/>
+<rect x="936" y="320" width="190" height="110" rx="8" fill="#0B1F4A"/>
+<text x="1031.0" y="371" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">9 Capstone</text>
+<text x="1031.0" y="391" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FFFFFF" text-anchor="middle">Lessons 28-31</text>
+<text x="40" y="520" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#475569" text-anchor="start">Every lesson runs offline on the standard library, and every number in it is measured by its own code.</text>
+</svg>

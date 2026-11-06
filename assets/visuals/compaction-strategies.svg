@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="500" viewBox="0 0 1180 500">
+<rect width="1180" height="500" fill="#FFFFFF"/>
+<text x="40" y="52" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#0B1F4A">Three ways to survive a long conversation (Lesson 16)</text>
+<text x="40" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#475569">Tokens and surviving facts for the 24 turn fixture conversation. Truncation is cheapest and forgets; notes cost more and forget nothing measured.</text>
+<rect x="40" y="98" width="90" height="5" fill="#0891B2"/>
+<text x="40" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0B1F4A" text-anchor="start">keep everything</text>
+<rect x="40" y="178" width="700" height="24" fill="#E2E8F0"/>
+<rect x="40" y="178" width="700" height="24" fill="#0891B2"/>
+<text x="770" y="198" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">677 tokens, probes 5/5, pinned 5/5</text>
+<text x="40" y="266" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0B1F4A" text-anchor="start">truncate to last 8 turns</text>
+<rect x="40" y="278" width="700" height="24" fill="#E2E8F0"/>
+<rect x="40" y="278" width="276" height="24" fill="#F59E0B"/>
+<text x="770" y="298" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">267 tokens, probes 3/5, pinned 5/5</text>
+<text x="40" y="366" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#0B1F4A" text-anchor="start">rolling notes + pins</text>
+<rect x="40" y="378" width="700" height="24" fill="#E2E8F0"/>
+<rect x="40" y="378" width="546" height="24" fill="#0B1F4A"/>
+<text x="770" y="398" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#0B1F4A" text-anchor="start">528 tokens, probes 5/5, pinned 5/5</text>
+</svg>
