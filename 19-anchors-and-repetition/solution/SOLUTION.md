@@ -1,0 +1,3 @@
+# Solution: Anchors and repetition: spending 19 tokens to rescue a rule
+
+Measured on the same middle placement: at about 1,300 total tokens the rule is used in 0.45 of trials, at about 2,100 tokens in 0.275, and at 3,000 in 0.0. The middle position weight is fixed at 0.66, so the slide is driven by the rot penalty shrinking with total size (0.045 per 1,000 tokens) until the score clears the threshold on more trials. Position sets the ceiling; size decides how close you get to it. That is why the same instruction can be safe in a short support chat and lost in a long agent run with no change in wording.
