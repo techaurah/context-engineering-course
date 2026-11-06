@@ -1,0 +1,15 @@
+# Context Engineering: requirements
+#
+# This course needs no third party packages. The toolkit, the
+# stand-in reader, every selector, compressor, and harness, and
+# the capstone pipeline all run on the Python 3.11+ standard
+# library alone, offline, because the course's promise is that
+# every number is reproducible by running the lesson's code, and
+# that promise should not depend on a package index being
+# reachable.
+#
+# Optional extras, not installed by this file, named with their
+# check dates in RESEARCH.md: the Anthropic and LangChain
+# context engineering posts (reading, not code), and Chroma's
+# context rot report, for learners who want the primary sources
+# beside the course's own measurements.

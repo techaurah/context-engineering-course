@@ -1,0 +1,38 @@
+# Progress
+
+Work through the lessons in order and tick them off. Every lesson ends with its own recap checklist; this page is the whole course on one screen.
+
+- [ ] Lesson 00: Course setup: what you need, and how this course works (`00-course-setup/`)
+- [ ] Lesson 01: What context engineering is: the anatomy of a window (`01-what-context-engineering-is/`)
+- [ ] Lesson 02: Counting tokens: the approximation, and when it is good enough (`02-counting-tokens/`)
+- [ ] Lesson 03: The context budget: accounting for a finite window (`03-the-context-budget/`)
+- [ ] Lesson 04: Context rot: the cost of length itself (`04-context-rot/`)
+- [ ] Lesson 05: Lost in the middle: position effects, measured (`05-lost-in-the-middle/`)
+- [ ] Lesson 06: The system prompt: structure, altitude, and the verbatim test (`06-system-prompt-structure/`)
+- [ ] Lesson 07: Structured formats: prose, lists, and tags, priced (`07-structured-formats/`)
+- [ ] Lesson 08: Few-shot examples: buying accuracy with tokens (`08-few-shot-examples/`)
+- [ ] Lesson 09: Instructions vs data: the channel is the control (`09-instructions-vs-data/`)
+- [ ] Lesson 10: Selection as a ranking problem (`10-selection-as-ranking/`)
+- [ ] Lesson 11: TF-IDF selection under a budget (`11-tfidf-selection/`)
+- [ ] Lesson 12: Just-in-time context: identifiers first, content on demand (`12-just-in-time-context/`)
+- [ ] Lesson 13: Filtering tool outputs: the cheapest tokens are the ones you never admit (`13-filtering-tool-outputs/`)
+- [ ] Lesson 14: Extractive compression: keep the sentences that carry the facts (`14-extractive-compression/`)
+- [ ] Lesson 15: The stand-in summarizer: what a query-free summary quietly drops (`15-the-standin-summarizer/`)
+- [ ] Lesson 16: Compacting conversation history: truncation, notes, and pinned facts (`16-compacting-conversation-history/`)
+- [ ] Lesson 17: Pruning and deduplication: near copies, and the fact the short copy lost (`17-pruning-and-deduplication/`)
+- [ ] Lesson 18: Ordering: what the edges strategy actually buys, measured on all facts (`18-ordering-by-relevance/`)
+- [ ] Lesson 19: Anchors and repetition: spending 19 tokens to rescue a rule (`19-anchors-and-repetition/`)
+- [ ] Lesson 20: Sections and headings: layout as a retrieval surface (`20-sections-and-headings/`)
+- [ ] Lesson 21: Writing external memory: notes that outlive the window (`21-writing-external-memory/`)
+- [ ] Lesson 22: Memory formats: the reader is part of the format (`22-memory-formats/`)
+- [ ] Lesson 23: Isolating subcontexts: clean windows, and the question nobody asked (`23-isolating-subcontexts/`)
+- [ ] Lesson 24: The cost of tool definitions: tokens, overlap, and the twin problem (`24-the-cost-of-tool-definitions/`)
+- [ ] Lesson 25: Token-efficient tool results: design the answer, not the dump (`25-token-efficient-tool-results/`)
+- [ ] Lesson 26: Prefix stability and caching: layout decisions with a price tag (`26-prefix-stability-and-caching/`)
+- [ ] Lesson 27: Cost accounting: read a run like a ledger (`27-cost-and-latency-accounting/`)
+- [ ] Lesson 28: Measuring context quality: recall, precision, and cost per success (`28-measuring-context-quality/`)
+- [ ] Lesson 29: Capstone spec: the pipeline and its gates, fixed in advance (`29-capstone-spec/`)
+- [ ] Lesson 30: Build the capstone pipeline (`30-build-the-capstone-pipeline/`)
+- [ ] Lesson 31: Evaluate and harden: the verdict, the failure, and the fix (`31-evaluate-and-harden/`)
+
+Capstone complete when Lesson 31's evaluation reports the gate table against the gates fixed in Lesson 29, with the as built run and the hardened run both in the output.

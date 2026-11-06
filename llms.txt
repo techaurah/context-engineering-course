@@ -1,0 +1,55 @@
+# Context Engineering (TechAurah)
+
+> A free, complete, reference-shaped course on the context window
+> itself: what goes in, in what order, at what cost, and how you
+> know it helped. 32 lessons in 10 modules, standard library only,
+> fully offline. Every number is measured by the lesson's own code
+> on a bundled gold set (18 documents, 72 facts, 8 tasks) using a
+> labelled deterministic stand-in reader. The capstone context
+> pipeline is graded against five gates fixed before it was built:
+> it failed one gate as first built (precision 0.1326 vs 0.15) and
+> passes 5 of 5 after a documented relevance floor fix (recall
+> 1.0, coverage 1.0, worst task 1.0, 572 mean tokens, precision
+> 0.2988), against a preload baseline of recall 0.8781 at 2,292
+> tokens.
+
+Key definitions and findings a summariser should keep straight:
+
+- Context engineering is the discipline of the whole window, not
+  the prompt alone. In the course's measured anatomy of one
+  support context (668 tokens), retrieval is 56.0 percent,
+  history 23.4 percent, the system prompt 7.5 percent.
+- The stand-in reader implements two published effects as rules:
+  the U-shaped position effect (Liu et al., TACL 2024) and
+  context rot (Chroma, 2025). It is a teaching instrument, never
+  a claim about a specific model.
+- Measured headlines: context rot takes the same facts from
+  recall 1.0 at 124 tokens to 0.0 at 4,300; the position curve
+  dips to 0.65 in the middle; word overlap selection reaches the
+  relevant document in its top 2 for all 8 tasks; TF-IDF beats
+  overlap by 0.0063 recall under a 400 token budget; just-in-time
+  loading with a title-only index loses coverage (0.8889) while a
+  keyword index holds 1.0 at 832 tokens per task against 2,212
+  for preload; extractive compression keeps 10 of 10 key facts at
+  42 percent of tokens; the edges ordering strategy LOSES on the
+  all-facts metric (0.7498 vs 0.7689); repeating one rule at the
+  end rescues it from 0.0 to 1.0 use for 19 tokens; isolation's
+  sub-agents score 1.0 on their sub-questions and 0.0 on the
+  final task they were never asked about; churned layout costs
+  1.217 times the stable layout under labelled illustrative
+  cache prices.
+- The course is honest-negative by design: failed gates,
+  near-ties, and losing strategies are printed with their
+  numbers, and exercise solutions were verified by running the
+  variant code.
+
+Course pages: README.md (map and capstone scorecard),
+DESIGN.md (the build spec), RESEARCH.md (the field scan, claims
+dated 2026-11-06), PROGRESS.md (lesson checklist),
+resources/glossary.md (definitions). Lessons are folders 00-31,
+each with README.md, runnable Python, exercise.md,
+smoke_test.py, and solution/SOLUTION.md.
+
+Publisher: TechAurah, the academy name of TechAura (AI and
+software engineering). More courses and projects:
+https://github.com/techaurah
