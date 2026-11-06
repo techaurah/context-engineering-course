@@ -1,0 +1,3 @@
+# Solution: TF-IDF selection under a budget
+
+Both rankers collapse to coverage 0.5 and recall 0.5, identically. At a one document budget the question stops being which ranker orders best: several fixture documents are 130 to 136 tokens, so for some tasks even the single right document does not fit whole, and for others the top pick crowds out everything else. The binding constraint became document granularity, not ranking. The fix at that point is not a better ranker; it is smaller units (chunking, or Lesson 14's compression), which is a different lever entirely. Budgets decide which problems you have.
