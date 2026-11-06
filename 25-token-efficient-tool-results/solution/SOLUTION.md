@@ -1,0 +1,3 @@
+# Solution: Token-efficient tool results: design the answer, not the dump
+
+Every task loses coverage, which is the finding: all 8 fixture tasks need at least 2 facts, so a one fact cap breaks the whole set by construction. Delivery cost falls to 1 of 3 facts; worst is cafe Sunday at 0 of 2, because the single line the cap keeps from the cafe document is not even one of the required facts. Multi fact tasks are the constraint that sizes a compact schema; the schema must be designed against the task with the most required facts per document, not against the average task. Coverage harnesses exist to find that before your users do.
