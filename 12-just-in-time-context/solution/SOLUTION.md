@@ -1,0 +1,3 @@
+# Solution: Just-in-time context: identifiers first, content on demand
+
+The failing task is the loyalty one: its question says points, pounds, and member, never loyalty or scheme, so no title stem matches and the loader loads nothing at all, missing both required facts. Adding the keyword 'points' to the loyalty entry (drawn from its own text, as the enriched index does systematically) fixes the task. The systematic version costs 832 minus 344, about 488 extra tokens per task across the board, most of it index text for documents never loaded. That is the real JIT bargain: you pay a standing index cost on every task to avoid a loading cost on most.
