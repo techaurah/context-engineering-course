@@ -1,0 +1,3 @@
+# Solution: Capstone spec: the pipeline and its gates, fixed in advance
+
+For the gate: overlap top 2 already runs at 306 tokens with recall 1.0, so 600 is demonstrably achievable on this corpus, and a tighter budget is a tighter bill forever. Against it: top 2 wins by betting each task needs at most 2 documents; a 600 cap hard codes that bet into the spec, and the first 3 document task (or a fatter corpus) breaks coverage, the gate the course ranks above cost. The spec as written keeps tokens at 1,000 and lets coverage and recall outrank cheapness. Either answer is defensible; an undefended number is not.
