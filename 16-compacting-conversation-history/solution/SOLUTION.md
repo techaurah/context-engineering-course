@@ -1,0 +1,3 @@
+# Solution: Compacting conversation history: truncation, notes, and pinned facts
+
+The last 4 turns are turns 20 to 23, which still include the turn 22 recap, so all 5 pinned markers survive again, while the probes fall to 2 of 5 (only the 5 litre and cordon markers, both restated late). The Epsom dose and the canes join the midday sun outside the window. The structural lesson stands at any cutoff: truncation's memory is whatever happens to be recent, and a fact's survival depends on when it was last repeated, not on whether it matters. Notes plus pins make survival a decision instead of an accident.
