@@ -1,0 +1,3 @@
+# Solution: Counting tokens: the approximation, and when it is good enough
+
+For doc-returns (the longest document at 478 characters) the pattern matches the corpus: the approximation counts 135 tokens, characters/4 only 120, an underestimate, because the text is dense with short words and numbers, and the approximation charges digit runs and punctuation separately. The corpus worst case was a 0.156 relative error; a budget that assumes characters/4 exactly will overrun by roughly that margin on similar text. The fix the course adopts is headroom: budgets in Lesson 03 keep a reserve rather than pretending the count is exact.
