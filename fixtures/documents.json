@@ -1,0 +1,434 @@
+[
+ {
+  "id": "doc-delivery",
+  "slug": "delivery",
+  "title": "Delivery options and windows",
+  "text": "Fernhill delivers within the local area on set days each week. Deliveries run Tuesday to Friday. The delivery window is 9:00 to 17:30. Delivery is free on orders over 75 pounds. The minimum order for delivery is 25 pounds. Orders are packed in the morning they leave, and the van route is set the night before so drivers are not guessing. If a delivery slot fills, the till offers the next working day rather than a vague promise.",
+  "facts": [
+   {
+    "id": "fh-delivery-days",
+    "text": "Deliveries run Tuesday to Friday."
+   },
+   {
+    "id": "fh-delivery-window",
+    "text": "The delivery window is 9:00 to 17:30."
+   },
+   {
+    "id": "fh-delivery-fee",
+    "text": "Delivery is free on orders over 75 pounds."
+   },
+   {
+    "id": "fh-delivery-minimum",
+    "text": "The minimum order for delivery is 25 pounds."
+   }
+  ]
+ },
+ {
+  "id": "doc-returns",
+  "slug": "returns",
+  "title": "Returns and refunds",
+  "text": "Plants and goods come back under different rules, so check the item type first. Plants can be returned within 14 days with a receipt. Non-plant goods can be returned within 30 days. Refunds land three to five working days after the return is scanned. Damaged items are replaced or refunded without a receipt. The returns desk sits beside the tills at both centres. Staff can look up a receipt from the card used to pay, which helps when the paper copy has gone through the wash.",
+  "facts": [
+   {
+    "id": "fh-returns-plants",
+    "text": "Plants can be returned within 14 days with a receipt."
+   },
+   {
+    "id": "fh-returns-goods",
+    "text": "Non-plant goods can be returned within 30 days."
+   },
+   {
+    "id": "fh-refund-time",
+    "text": "Refunds land three to five working days after the return is scanned."
+   },
+   {
+    "id": "fh-returns-damaged",
+    "text": "Damaged items are replaced or refunded without a receipt."
+   }
+  ]
+ },
+ {
+  "id": "doc-loyalty",
+  "slug": "loyalty",
+  "title": "The Fernhill loyalty scheme",
+  "text": "Loyalty members earn points on every purchase in store and online. Members earn 2 points for every pound spent. Each point is worth 1 penny against a future purchase. Points expire after 12 months without a purchase. Spending 500 pounds in a year moves a member to the Gold tier. Points cannot be earned on gift card purchases, and the scheme is run per household rather than per person. The monthly email shows the running balance so nobody has to ask at the till.",
+  "facts": [
+   {
+    "id": "fh-loyalty-rate",
+    "text": "Members earn 2 points for every pound spent."
+   },
+   {
+    "id": "fh-loyalty-value",
+    "text": "Each point is worth 1 penny against a future purchase."
+   },
+   {
+    "id": "fh-loyalty-expiry",
+    "text": "Points expire after 12 months without a purchase."
+   },
+   {
+    "id": "fh-loyalty-tiers",
+    "text": "Spending 500 pounds in a year moves a member to the Gold tier."
+   }
+  ]
+ },
+ {
+  "id": "doc-workshops",
+  "slug": "workshops",
+  "title": "Workshops and events",
+  "text": "Fernhill runs hands-on gardening workshops at both centres through the year. Workshops must be booked at least 48 hours ahead. Each workshop is capped at 12 people. Standard workshops cost 35 pounds per person. Workshop places are refundable up to 7 days before the session. Workshops run in the glasshouse at the larger centre and in the barn at the smaller one. Materials are included in the price, and the tutor keeps a waiting list for full sessions.",
+  "facts": [
+   {
+    "id": "fh-workshop-booking",
+    "text": "Workshops must be booked at least 48 hours ahead."
+   },
+   {
+    "id": "fh-workshop-size",
+    "text": "Each workshop is capped at 12 people."
+   },
+   {
+    "id": "fh-workshop-price",
+    "text": "Standard workshops cost 35 pounds per person."
+   },
+   {
+    "id": "fh-workshop-refund",
+    "text": "Workshop places are refundable up to 7 days before the session."
+   }
+  ]
+ },
+ {
+  "id": "doc-cafe",
+  "slug": "cafe",
+  "title": "The garden cafe",
+  "text": "The cafe serves breakfast and lunch daily at the larger centre. The cafe opens 8:30 to 16:00 Monday to Saturday. On Sundays the cafe opens 10:00 to 15:30. Groups of 8 or more must book the cafe in advance. Dogs are welcome in the outdoor cafe seating only. The menu changes with the season and leans on the kitchen garden when it can. Cakes are baked on site each morning, and the coffee is roasted twenty miles away.",
+  "facts": [
+   {
+    "id": "fh-cafe-hours",
+    "text": "The cafe opens 8:30 to 16:00 Monday to Saturday."
+   },
+   {
+    "id": "fh-cafe-sunday",
+    "text": "On Sundays the cafe opens 10:00 to 15:30."
+   },
+   {
+    "id": "fh-cafe-groups",
+    "text": "Groups of 8 or more must book the cafe in advance."
+   },
+   {
+    "id": "fh-cafe-dogs",
+    "text": "Dogs are welcome in the outdoor cafe seating only."
+   }
+  ]
+ },
+ {
+  "id": "doc-plantcare",
+  "slug": "plantcare",
+  "title": "Plant care basics",
+  "text": "Most houseplant problems come from water and light, in that order. Water most houseplants when the top 2 centimetres of soil are dry. Bright indirect light suits most tropical houseplants. Feed houseplants once a month in spring and summer only. Repot one size up, never more, in spring. A plant that drops leaves after a move is usually reacting to the change of light, not dying. Give it two weeks in the new spot before changing anything else.",
+  "facts": [
+   {
+    "id": "fh-care-watering",
+    "text": "Water most houseplants when the top 2 centimetres of soil are dry."
+   },
+   {
+    "id": "fh-care-light",
+    "text": "Bright indirect light suits most tropical houseplants."
+   },
+   {
+    "id": "fh-care-feeding",
+    "text": "Feed houseplants once a month in spring and summer only."
+   },
+   {
+    "id": "fh-care-repotting",
+    "text": "Repot one size up, never more, in spring."
+   }
+  ]
+ },
+ {
+  "id": "doc-seasonal",
+  "slug": "seasonal",
+  "title": "Seasonal planting calendar",
+  "text": "The planting calendar follows the local last frost date. The local last frost date is around 28 April. Tomatoes go outside after the last frost, in late May. Spring bulbs are planted in October and November. Prune spring flowering shrubs right after flowering ends. The calendar is a guide, not a guarantee: a cold spring moves everything later. Staff chalk the current week on the board by the entrance so visitors can see what the team itself is sowing.",
+  "facts": [
+   {
+    "id": "fh-season-frost",
+    "text": "The local last frost date is around 28 April."
+   },
+   {
+    "id": "fh-season-tomatoes",
+    "text": "Tomatoes go outside after the last frost, in late May."
+   },
+   {
+    "id": "fh-season-bulbs",
+    "text": "Spring bulbs are planted in October and November."
+   },
+   {
+    "id": "fh-season-pruning",
+    "text": "Prune spring flowering shrubs right after flowering ends."
+   }
+  ]
+ },
+ {
+  "id": "doc-orders",
+  "slug": "orders",
+  "title": "Orders and collection",
+  "text": "Online orders can be collected in store or sent out for delivery. Click and collect orders are ready within 2 working hours. Collection orders are held for 5 days. Bring the order confirmation email to collect. The same day dispatch cutoff is 14:00 on working days. A collection text goes out when the order reaches the collection shelf. Uncollected orders go back to stock after the hold period and the payment is refunded to the original card.",
+  "facts": [
+   {
+    "id": "fh-orders-ready",
+    "text": "Click and collect orders are ready within 2 working hours."
+   },
+   {
+    "id": "fh-orders-hold",
+    "text": "Collection orders are held for 5 days."
+   },
+   {
+    "id": "fh-orders-id",
+    "text": "Bring the order confirmation email to collect."
+   },
+   {
+    "id": "fh-orders-cutoff",
+    "text": "The same day dispatch cutoff is 14:00 on working days."
+   }
+  ]
+ },
+ {
+  "id": "doc-giftcards",
+  "slug": "giftcards",
+  "title": "Gift cards",
+  "text": "Gift cards are sold in store and online in fixed amounts. Gift cards come in 10, 25, 50, and 100 pound amounts. Gift cards expire 24 months after purchase. A gift card balance can be split across several purchases. Gift cards can be spent online and in store. Lost gift cards can be replaced if the original receipt is kept, because the card number is printed on it. Cards bought online arrive by email within the hour.",
+  "facts": [
+   {
+    "id": "fh-gift-amounts",
+    "text": "Gift cards come in 10, 25, 50, and 100 pound amounts."
+   },
+   {
+    "id": "fh-gift-expiry",
+    "text": "Gift cards expire 24 months after purchase."
+   },
+   {
+    "id": "fh-gift-balance",
+    "text": "A gift card balance can be split across several purchases."
+   },
+   {
+    "id": "fh-gift-online",
+    "text": "Gift cards can be spent online and in store."
+   }
+  ]
+ },
+ {
+  "id": "doc-trade",
+  "slug": "trade",
+  "title": "Trade accounts",
+  "text": "Landscapers and gardeners can open a trade account at either centre. Trade accounts get 15 percent off plants. Trade invoices are due 30 days after the invoice date. There is no minimum spend to open a trade account. Trade applicants must show a business registration document. Trade customers can order by phone for collection the same afternoon when stock allows. The trade desk keeps a list of bulk prices for the common landscaping lines.",
+  "facts": [
+   {
+    "id": "fh-trade-discount",
+    "text": "Trade accounts get 15 percent off plants."
+   },
+   {
+    "id": "fh-trade-terms",
+    "text": "Trade invoices are due 30 days after the invoice date."
+   },
+   {
+    "id": "fh-trade-minimum",
+    "text": "There is no minimum spend to open a trade account."
+   },
+   {
+    "id": "fh-trade-id",
+    "text": "Trade applicants must show a business registration document."
+   }
+  ]
+ },
+ {
+  "id": "doc-pets",
+  "slug": "pets",
+  "title": "Pets on site",
+  "text": "Well behaved dogs are part of the Fernhill weekend crowd. Dogs must stay on a short lead everywhere on site. Dogs are not allowed inside the cafe building. Water bowls for dogs sit by both entrances. The pet safe plant list is kept at the tills. The centres run a quiet hour on Sunday mornings when the tannoy stays off, which many dog owners prefer. Leads can be borrowed from the entrance desk for a small deposit.",
+  "facts": [
+   {
+    "id": "fh-pets-leads",
+    "text": "Dogs must stay on a short lead everywhere on site."
+   },
+   {
+    "id": "fh-pets-indoors",
+    "text": "Dogs are not allowed inside the cafe building."
+   },
+   {
+    "id": "fh-pets-water",
+    "text": "Water bowls for dogs sit by both entrances."
+   },
+   {
+    "id": "fh-pets-plants",
+    "text": "The pet safe plant list is kept at the tills."
+   }
+  ]
+ },
+ {
+  "id": "doc-accessibility",
+  "slug": "accessibility",
+  "title": "Accessibility and parking",
+  "text": "Both centres have step free routes from the car park to the tills. There are 14 accessible parking bays across both centres. Wheelchairs are free to borrow from the entrance desk. Hearing loops are fitted at every till. Accessible toilets are beside the cafe entrance. The step free route is signed from the car park. Staff will bring a wheelchair to a car on request if the driver phones ahead from the bay.",
+  "facts": [
+   {
+    "id": "fh-access-parking",
+    "text": "There are 14 accessible parking bays across both centres."
+   },
+   {
+    "id": "fh-access-wheelchairs",
+    "text": "Wheelchairs are free to borrow from the entrance desk."
+   },
+   {
+    "id": "fh-access-loops",
+    "text": "Hearing loops are fitted at every till."
+   },
+   {
+    "id": "fh-access-toilets",
+    "text": "Accessible toilets are beside the cafe entrance."
+   }
+  ]
+ },
+ {
+  "id": "doc-compost",
+  "slug": "compost",
+  "title": "Compost and soil",
+  "text": "Compost is sold by the bag and in bulk at the larger centre. Multi purpose compost comes in 40 litre bags. Bulk compost is sold by the cubic metre. Bulk compost delivery needs 3 working days notice. All Fernhill own brand compost has been peat free since 2023. Own brand compost is made partly from the centres own green waste, composted on site at the larger centre. Bag sizes are printed on the shelf edge for anyone comparing value.",
+  "facts": [
+   {
+    "id": "fh-compost-bags",
+    "text": "Multi purpose compost comes in 40 litre bags."
+   },
+   {
+    "id": "fh-compost-bulk",
+    "text": "Bulk compost is sold by the cubic metre."
+   },
+   {
+    "id": "fh-compost-delivery",
+    "text": "Bulk compost delivery needs 3 working days notice."
+   },
+   {
+    "id": "fh-compost-peat",
+    "text": "All Fernhill own brand compost has been peat free since 2023."
+   }
+  ]
+ },
+ {
+  "id": "doc-tools",
+  "slug": "tools",
+  "title": "Tool hire",
+  "text": "The larger centre hires out garden machinery by the day. Tool hire needs a 100 pound refundable deposit. A hire day runs 8:00 to 18:00. Tool hire requires photo ID and a utility bill. Late returns are charged at half a day per day or part day. Hired machines go out cleaned and fuelled, and come back the same way or a cleaning charge applies. The hire desk closes thirty minutes before the centre.",
+  "facts": [
+   {
+    "id": "fh-tools-deposit",
+    "text": "Tool hire needs a 100 pound refundable deposit."
+   },
+   {
+    "id": "fh-tools-day",
+    "text": "A hire day runs 8:00 to 18:00."
+   },
+   {
+    "id": "fh-tools-id",
+    "text": "Tool hire requires photo ID and a utility bill."
+   },
+   {
+    "id": "fh-tools-late",
+    "text": "Late returns are charged at half a day per day or part day."
+   }
+  ]
+ },
+ {
+  "id": "doc-weddings",
+  "slug": "weddings",
+  "title": "Wedding and event flowers",
+  "text": "The floristry team takes a limited number of event bookings each month. Wedding flowers need at least 6 weeks notice. The first wedding consultation is free. The minimum wedding order is 250 pounds. Event flowers are delivered and set up on the day. The floristry team photographs every arrangement before it leaves, so the couple sees exactly what will arrive. Consultations run on weekday evenings by appointment.",
+  "facts": [
+   {
+    "id": "fh-wed-lead",
+    "text": "Wedding flowers need at least 6 weeks notice."
+   },
+   {
+    "id": "fh-wed-consult",
+    "text": "The first wedding consultation is free."
+   },
+   {
+    "id": "fh-wed-minimum",
+    "text": "The minimum wedding order is 250 pounds."
+   },
+   {
+    "id": "fh-wed-delivery",
+    "text": "Event flowers are delivered and set up on the day."
+   }
+  ]
+ },
+ {
+  "id": "doc-jobs",
+  "slug": "jobs",
+  "title": "Working at Fernhill",
+  "text": "Seasonal roles open in late winter each year. Seasonal hiring opens in February. Applicants must be 16 or over. Fernhill pays at or above the real living wage. Applications are made through the Fernhill website only. Seasonal staff get the staff discount from their first shift. Many of the permanent team started as seasonal hires, which the managers mention at every induction.",
+  "facts": [
+   {
+    "id": "fh-jobs-season",
+    "text": "Seasonal hiring opens in February."
+   },
+   {
+    "id": "fh-jobs-age",
+    "text": "Applicants must be 16 or over."
+   },
+   {
+    "id": "fh-jobs-pay",
+    "text": "Fernhill pays at or above the real living wage."
+   },
+   {
+    "id": "fh-jobs-apply",
+    "text": "Applications are made through the Fernhill website only."
+   }
+  ]
+ },
+ {
+  "id": "doc-watering",
+  "slug": "watering",
+  "title": "Watering systems and hosepipe guidance",
+  "text": "Drip systems cut water use on beds and containers alike. A drip line waters containers in about 20 minutes a session. Timers can be set for up to 4 watering sessions a day. During a hosepipe ban, drip systems on timers stay allowed locally. A standard water butt holds 200 litres. A timer and a drip line together remove most summer watering arguments. The team will plan a layout on paper in store if a customer brings bed measurements.",
+  "facts": [
+   {
+    "id": "fh-water-drip",
+    "text": "A drip line waters containers in about 20 minutes a session."
+   },
+   {
+    "id": "fh-water-timer",
+    "text": "Timers can be set for up to 4 watering sessions a day."
+   },
+   {
+    "id": "fh-water-ban",
+    "text": "During a hosepipe ban, drip systems on timers stay allowed locally."
+   },
+   {
+    "id": "fh-water-rain",
+    "text": "A standard water butt holds 200 litres."
+   }
+  ]
+ },
+ {
+  "id": "doc-history",
+  "slug": "history",
+  "title": "The Fernhill story",
+  "text": "Fernhill started as a single nursery and grew slowly. Fernhill was founded in 1987. The second centre opened in 2009. Fernhill is still family owned. The two centres cover 11 acres between them. The original nursery beds are still in use at the first centre. A small archive of photographs hangs in the cafe, including the first delivery van the family bought second hand.",
+  "facts": [
+   {
+    "id": "fh-hist-founded",
+    "text": "Fernhill was founded in 1987."
+   },
+   {
+    "id": "fh-hist-second",
+    "text": "The second centre opened in 2009."
+   },
+   {
+    "id": "fh-hist-family",
+    "text": "Fernhill is still family owned."
+   },
+   {
+    "id": "fh-hist-acres",
+    "text": "The two centres cover 11 acres between them."
+   }
+  ]
+ }
+]

@@ -1,0 +1,132 @@
+{
+ "id": "conv-tomato",
+ "turns": [
+  {
+   "turn": 0,
+   "role": "user",
+   "text": "My tomato plants have pale leaves and the fruit is slow. What is going on?"
+  },
+  {
+   "turn": 1,
+   "role": "assistant",
+   "text": "Pale leaves on tomatoes usually mean feeding or light. Let us work through it."
+  },
+  {
+   "turn": 2,
+   "role": "user",
+   "text": "They are in pots on a balcony that gets sun from midday."
+  },
+  {
+   "turn": 3,
+   "role": "assistant",
+   "text": "Midday sun is enough. The usual gap is feed: tomatoes in pots need a weekly feed once fruit sets."
+  },
+  {
+   "turn": 4,
+   "role": "user",
+   "text": "I have not fed them at all this year. Which feed should I use?"
+  },
+  {
+   "turn": 5,
+   "role": "assistant",
+   "text": "A tomato feed high in potash, once a week. Note your constraint: the balcony tap drips, so watering is by can."
+  },
+  {
+   "turn": 6,
+   "role": "user",
+   "text": "Also the pots are small, 5 litre ones. Is that a problem?"
+  },
+  {
+   "turn": 7,
+   "role": "assistant",
+   "text": "Five litre pots dry out fast and limit roots. Ten litres or more is the comfortable size for a cordon tomato."
+  },
+  {
+   "turn": 8,
+   "role": "user",
+   "text": "I cannot repot now, they are fruiting. What else can I do?"
+  },
+  {
+   "turn": 9,
+   "role": "assistant",
+   "text": "Then water little and often, feed weekly, and mulch the surface to hold moisture."
+  },
+  {
+   "turn": 10,
+   "role": "user",
+   "text": "My neighbour said to strip all the side shoots. Should I?"
+  },
+  {
+   "turn": 11,
+   "role": "assistant",
+   "text": "Only for cordon types. If yours is a bush type, leave the shoots alone."
+  },
+  {
+   "turn": 12,
+   "role": "user",
+   "text": "It says cordon on the label. Fine. What about the pale leaves coming back?"
+  },
+  {
+   "turn": 13,
+   "role": "assistant",
+   "text": "If pale leaves return after two weeks of feeding, check for magnesium deficiency: older leaves yellow between the veins."
+  },
+  {
+   "turn": 14,
+   "role": "user",
+   "text": "And if it is magnesium?"
+  },
+  {
+   "turn": 15,
+   "role": "assistant",
+   "text": "An Epsom salt spray, one tablespoon per litre, once. Do not repeat it weekly."
+  },
+  {
+   "turn": 16,
+   "role": "user",
+   "text": "Good. One more thing: the balcony is windy and the pots blow over."
+  },
+  {
+   "turn": 17,
+   "role": "assistant",
+   "text": "Group the pots together against the wall and tie the canes to the railing."
+  },
+  {
+   "turn": 18,
+   "role": "user",
+   "text": "Budget is tight this month, under 20 pounds for everything."
+  },
+  {
+   "turn": 19,
+   "role": "assistant",
+   "text": "Feed and Epsom salts come to under 12 pounds at Fernhill, so the plan fits the budget."
+  },
+  {
+   "turn": 20,
+   "role": "user",
+   "text": "Let me check: weekly potash feed, keep watering by can little and often, strip side shoots on the cordon, Epsom salts once only if the yellowing pattern matches."
+  },
+  {
+   "turn": 21,
+   "role": "assistant",
+   "text": "That is the plan exactly. The pinned facts are: balcony tap drips so watering is by can; pots are 5 litre and cannot be repotted mid fruiting; the variety is a cordon; budget under 20 pounds."
+  },
+  {
+   "turn": 22,
+   "role": "user",
+   "text": "And the feed must be high potash, weekly, once fruit has set. Thanks, that is everything."
+  },
+  {
+   "turn": 23,
+   "role": "assistant",
+   "text": "You are welcome. If the leaves pale again in two weeks, bring a photo to the plant desk."
+  }
+ ],
+ "pinned_facts": [
+  "The balcony tap drips, so watering is by can.",
+  "The pots are 5 litres and cannot be repotted while fruiting.",
+  "The tomato variety is a cordon type.",
+  "The total budget is under 20 pounds.",
+  "Feed is a high potash tomato feed, weekly, once fruit has set."
+ ]
+}

@@ -1,0 +1,92 @@
+[
+ {
+  "id": "task-delivery-cost",
+  "question": "A customer asks: when do deliveries run, what hours, and is delivery free for their 80 pound order?",
+  "required_facts": [
+   "fh-delivery-days",
+   "fh-delivery-window",
+   "fh-delivery-fee"
+  ],
+  "relevant_docs": [
+   "doc-delivery"
+  ]
+ },
+ {
+  "id": "task-returns-plant",
+  "question": "A customer asks: can they return a plant after 10 days, and when would the refund arrive?",
+  "required_facts": [
+   "fh-returns-plants",
+   "fh-refund-time"
+  ],
+  "relevant_docs": [
+   "doc-returns"
+  ]
+ },
+ {
+  "id": "task-loyalty-points",
+  "question": "A member asks: how many points does a 40 pound shop earn, and when do points expire?",
+  "required_facts": [
+   "fh-loyalty-rate",
+   "fh-loyalty-expiry"
+  ],
+  "relevant_docs": [
+   "doc-loyalty"
+  ]
+ },
+ {
+  "id": "task-workshop-book",
+  "question": "A customer asks: how far ahead must a workshop be booked, how many people attend, and what does it cost?",
+  "required_facts": [
+   "fh-workshop-booking",
+   "fh-workshop-size",
+   "fh-workshop-price"
+  ],
+  "relevant_docs": [
+   "doc-workshops"
+  ]
+ },
+ {
+  "id": "task-cafe-sunday",
+  "question": "A visitor asks: what time does the cafe open on Sunday, and can they bring a group of 10 without booking?",
+  "required_facts": [
+   "fh-cafe-sunday",
+   "fh-cafe-groups"
+  ],
+  "relevant_docs": [
+   "doc-cafe"
+  ]
+ },
+ {
+  "id": "task-trade-open",
+  "question": "A landscaper asks: what discount do trade accounts get, and is there a minimum spend to open one?",
+  "required_facts": [
+   "fh-trade-discount",
+   "fh-trade-minimum"
+  ],
+  "relevant_docs": [
+   "doc-trade"
+  ]
+ },
+ {
+  "id": "task-tool-hire",
+  "question": "A customer asks: what deposit does tool hire need, and what ID must they bring?",
+  "required_facts": [
+   "fh-tools-deposit",
+   "fh-tools-id"
+  ],
+  "relevant_docs": [
+   "doc-tools"
+  ]
+ },
+ {
+  "id": "task-wedding-lead",
+  "question": "A couple asks: how much notice do wedding flowers need, and is there a minimum order?",
+  "required_facts": [
+   "fh-wed-lead",
+   "fh-wed-minimum"
+  ],
+  "relevant_docs": [
+   "doc-weddings"
+  ]
+ }
+]

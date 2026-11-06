@@ -1,0 +1,11 @@
+{
+ "window_tokens": 4000,
+ "reserve_output_tokens": 500,
+ "components": {
+  "system": 350,
+  "tools": 450,
+  "memory": 300,
+  "retrieval": 1600,
+  "history": 800
+ }
+}

@@ -1,0 +1,33 @@
+[
+ {
+  "id": "text-watering-guide",
+  "title": "The complete watering guide",
+  "text": "Water early in the morning so leaves dry before the evening chill. Most established shrubs need a deep soak once a week rather than a daily sprinkle. Containers dry out far faster than beds and may need water every day in a hot spell. A mulch of bark or compost, five centimetres deep, cuts evaporation from the soil surface. Rainwater is better than tap water for acid loving plants such as camellias and blueberries. Newly planted trees need watering through their first two summers, even in wet weeks. Clay soil holds water longer than sandy soil, so clay gardens can wait longer between soaks. Water the soil, not the leaves, to keep fungal disease down on roses and courgettes. A water butt on every downpipe is the cheapest way to build a reserve for a dry month. Seedlings need little and often: their roots sit in the top few centimetres that dry first. Lawns recover from drought without watering in most summers, so save the water for pots and veg. Drip lines deliver water to the roots with almost no waste, and a timer removes the guesswork. Wilting at midday is not always thirst; some plants fold their leaves against the heat and recover by evening. Check the soil with a finger before watering: if it is damp two centimetres down, wait.",
+  "key_facts": [
+   "Water early in the morning so leaves dry before the evening chill.",
+   "A mulch of bark or compost, five centimetres deep, cuts evaporation from the soil surface.",
+   "Water the soil, not the leaves, to keep fungal disease down on roses and courgettes.",
+   "Check the soil with a finger before watering: if it is damp two centimetres down, wait."
+  ]
+ },
+ {
+  "id": "text-pruning-guide",
+  "title": "Pruning without fear",
+  "text": "Prune spring flowering shrubs immediately after flowering, or you remove next year's buds. Always cut to just above an outward facing bud so new growth grows away from the centre. Remove dead, damaged, and crossing branches first; they are the cuts nobody regrets. Never take more than a third of a shrub's growth in a single year. Clean the blades between plants when a plant shows signs of disease. Hedges want little and often: two light trims beat one hard cut. Fruit trees on dwarfing rootstock need a lighter hand than orchard trees. Wisteria is pruned twice a year, in January and again in July. Sharp tools make clean cuts that heal faster and tear less bark. Stand back every few cuts and look at the whole shape before continuing. Roses are pruned in March in most of the country, when the forsythia flowers. A pruning wound needs no paint or sealant; trees seal their own wounds.",
+  "key_facts": [
+   "Prune spring flowering shrubs immediately after flowering, or you remove next year's buds.",
+   "Never take more than a third of a shrub's growth in a single year.",
+   "Wisteria is pruned twice a year, in January and again in July."
+  ]
+ },
+ {
+  "id": "text-compost-guide",
+  "title": "Compost, explained plainly",
+  "text": "A compost heap needs a mix of green material, rich in nitrogen, and brown material, rich in carbon. Roughly three parts brown to one part green by volume keeps a heap sweet. Turn the heap every few weeks to add air; a hot heap can be ready in three months. Keep the heap damp like a wrung out sponge, no wetter. Never compost cooked food, meat, or dairy: they draw rats and smell. Perennial weed roots and diseased leaves go in the council bin, not the heap. Finished compost is dark, crumbly, and smells of the woodland floor. A heap smaller than a cubic metre struggles to hold its heat. Leaves alone make leaf mould, a fine soil improver, in about two years. Wormeries suit small gardens and produce a rich liquid feed as well as compost.",
+  "key_facts": [
+   "Roughly three parts brown to one part green by volume keeps a heap sweet.",
+   "Never compost cooked food, meat, or dairy: they draw rats and smell.",
+   "Keep the heap damp like a wrung out sponge, no wetter."
+  ]
+ }
+]
