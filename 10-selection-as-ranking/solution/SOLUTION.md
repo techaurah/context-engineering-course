@@ -1,0 +1,3 @@
+# Solution: Selection as a ranking problem
+
+The cafe Sunday task is the miss: doc-pets wins 7 shared words to doc-cafe's 6. The pets text mentions Sunday (the quiet hour), groups of visitors, and a pile of everyday words the question also uses, while the cafe document spends its words on hours and bookings. The competitor wins on shared everyday vocabulary, including an incidental Sunday mention that has nothing to do with the question. This is the known weakness of raw overlap, counting common words as heavily as distinctive ones, and it is precisely what Lesson 11's TF-IDF weighting exists to fix.
