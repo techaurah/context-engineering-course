@@ -1,0 +1,19 @@
+{
+  "capstone_pipeline": {
+    "scenario": "Fernhill support agent: answer the 8 fixture tasks from the 18 document knowledge base inside the course's standard 4,000 token window.",
+    "fixed_before_build": "2026-11-06, in Lesson 29, before any pipeline code was written (Lesson 30).",
+    "gates": {
+      "mean_required_fact_recall_min": 0.9,
+      "fact_coverage_min": 0.95,
+      "worst_task_recall_min": 0.5,
+      "mean_total_tokens_max": 1000,
+      "mean_precision_min": 0.15
+    },
+    "definitions": {
+      "recall": "Mean stand-in use rate of the task's required facts in the assembled context, 20 seeded trials (ctx/standin.py).",
+      "coverage": "Fraction of required facts present anywhere in the assembled context, regardless of position.",
+      "precision": "Tokens of the task's relevant documents divided by total assembled tokens.",
+      "tokens": "ctx/tokenizer.py approximation, labelled as such."
+    }
+  }
+}
