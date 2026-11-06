@@ -1,0 +1,3 @@
+# Solution: Pruning and deduplication: near copies, and the fact the short copy lost
+
+On this corpus the gap is enormous: the most similar distinct pair scores 0.016, while the three copies score 1.0, 0.959, and 0.817 against their originals. Any threshold between about 0.05 and 0.8 behaves identically here, which is why lowering it to 0.3 changed nothing. The disciplined way to set a threshold is to measure that gap on your own corpus and sit inside it. On a corpus where documents share long boilerplate, distinct pairs climb toward the copies and the gap narrows or closes; then threshold choice becomes a real decision, verified by the fact loss count, never by the token saving.
