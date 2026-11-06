@@ -1,0 +1,3 @@
+# Solution: Isolating subcontexts: clean windows, and the question nobody asked
+
+The final task recovers: the trade summary now carries the discount and the delivery summary the free over 75 pounds threshold, so the combiner holds both facts and recall returns to 1.0. The combiner grows from 37 tokens to 61. The fix was not better sub-agents; it was a coverage rule in the standing instructions, written for fact classes (prices, discounts, thresholds) rather than for one predicted question. Decomposition survives contact with the future only when its summaries are scoped by class, not by guess.
