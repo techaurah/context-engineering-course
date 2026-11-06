@@ -1,0 +1,3 @@
+# Solution: The cost of tool definitions: tokens, overlap, and the twin problem
+
+Accuracy rises from 4 of 8 to 6 of 8: the cafe hours request lands on search, the furious customer lands on escalate once its description says angry and furious, and the water butt request lands on stock. But two new misses appear: 'in stock' and 'delivery' now match the stuffed search description, which became a magnet by absorbing everyone else's vocabulary. The errors moved; they did not all leave. That is the real maintenance loop: rewrite, remeasure, and expect each fix to be a trade, because a description that matches everything competes with everything.
